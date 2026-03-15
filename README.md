@@ -10,6 +10,8 @@ It connects to your wifi, gets time from a NTP server and weather info from open
 
 Used platormIO to build it, you could probably also do it in arduino IDE or any other build system for microcontrollers.
 
+Change `config_template.h` to `config.h` and fill it out with your info.
+
 ## Schematic
 
 ***TODO: provide a schematic***
